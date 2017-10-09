@@ -1,5 +1,3 @@
-package gui_programs;
-
 class YahtzeePlayer
 {
 	private String name;
