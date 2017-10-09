@@ -1,10 +1,4 @@
-package gui_programs;
-
 import javax.imageio.ImageIO;
-//Karamel Quitayen
-//G Period Java
-//Extra Credit: Yahtzee
-//=====================================
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
 import java.awt.*;
